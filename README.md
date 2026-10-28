@@ -1,2 +1,16 @@
 # Products_Data_Quality_Manager
-An Excel based tool for managing product master data and monitoring data quality. Features automated completeness checks, data validation, a checking and safety dashboard, and product lookup functionality. Uses fictional pump data.
+An Excel tool for managing product data and monitoring data quality using a pump cataloge
+
+# Features
+
+1-Auto data completeness checks
+
+2-Data validation and error highlighting
+
+3-Functioning dashboard with data quality values
+
+4-Product lookup functionality
+
+5-Test log to document testing
+
+# All data are fictional ofc ofc
